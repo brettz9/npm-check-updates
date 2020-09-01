@@ -55,7 +55,7 @@
     "get-stdin": "^8.0.0",
     "json-parse-helpfulerror": "^1.0.3",
     "libnpmconfig": "^1.2.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.20",
     "p-map": "^4.0.0",
     "pacote": "^11.1.11",
     "progress": "^2.0.3",
