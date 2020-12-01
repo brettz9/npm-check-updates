@@ -63,7 +63,7 @@
     "rc-config-loader": "^3.0.0",
     "semver": "^7.3.2",
     "semver-utils": "^1.1.4",
-    "spawn-please": "^0.3.0",
+    "spawn-please": "^1.0.0",
     "update-notifier": "^4.1.0"
   },
   "devDependencies": {
