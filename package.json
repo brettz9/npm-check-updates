@@ -51,7 +51,7 @@
     "cint": "^8.2.1",
     "cli-table": "^0.3.1",
     "commander": "^6.0.0",
-    "find-up": "4.1.0",
+    "find-up": "6.2.0",
     "get-stdin": "^8.0.0",
     "json-parse-helpfulerror": "^1.0.3",
     "libnpmconfig": "^1.2.1",
